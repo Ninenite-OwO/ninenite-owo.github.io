@@ -1,7 +1,7 @@
 
 # About Me
 
-Hello world, this is Ninenite. I speak both Cantonese and English.
+Hello world, this is Ninenite. I speak both Cantonese and English. As well as major in Electrical Engineering IRL.
 
 I've been playing osu! tournament since 2019 and have been part of the osu! community tournament staff since 2021. You can check out my [osu! profile](https://osu.ppy.sh/users/9956692).
 
@@ -55,6 +55,7 @@ If you enjoy VN soundtracks and Japanese vocal music, here are some artists and 
 
 ### Artists to Check Out
 
+- 茶太
 - 霜月はるか
 - 水谷瑠奈
 - Duca
@@ -66,6 +67,9 @@ If you enjoy VN soundtracks and Japanese vocal music, here are some artists and 
 - 箱々症候軍
 - Asriel
 - Dragon Guardian
+- Rita
+- TEARS OF TRAGEDY
+- Rin'ca
 
 
 ### Recommended Albums
@@ -77,7 +81,7 @@ If you enjoy VN soundtracks and Japanese vocal music, here are some artists and 
 
 > ### Sources of images used in this site
 > - [Banner](https://x.com/rainy12311/status/2033569357058716048) by [rainy12311](https://x.com/rainy12311)
-> - [PFP mono EP2](https://en.wikipedia.org/wiki/Mono_(manga)) 
+> - [PFP from mono EP2](https://en.wikipedia.org/wiki/Mono_(manga)) 
 
 *Last updated: 25/05/2026*
 
